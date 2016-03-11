@@ -1,0 +1,13 @@
+# Introduction #
+
+This is a brief introduction of GTM(Generative Topographic Mapping)
+
+
+# Details #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+**What is GTM**
